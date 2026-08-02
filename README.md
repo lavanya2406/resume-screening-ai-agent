@@ -71,11 +71,12 @@ $$\text{Final Score (0–100)} = 0.60 \times \text{Semantic similarity} + 0.20 \
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Screening Results
-![Results](screenshots/results.png)
-
 ### Candidate Inspector
-![Inspector](screenshots/inspector.png)
+![Inspector](screenshots/top_choice.png)
+
+### Screening Results
+![Results](screenshots/result.png)
+
 
 ---
 

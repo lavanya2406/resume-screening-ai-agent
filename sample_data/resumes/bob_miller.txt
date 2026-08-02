@@ -1,0 +1,23 @@
+Bob Miller
+Email: bob.miller@example.com
+Phone: 555-0104
+
+Education:
+Bachelor of Science in Information Technology
+Massachusetts Institute of Technology, 2022
+
+Experience:
+Software Engineer at WebCore (1.5 years)
+- Programmed tools in Python and Java.
+- Implemented basic Machine Learning image classifiers using TensorFlow.
+- Maintained relational databases using MySQL.
+
+Projects:
+Image classifier: Used Python and TensorFlow to build visual CNN models.
+Database dashboard: MySQL data viewing panel.
+
+Skills:
+Python, Java, Machine Learning, TensorFlow, MySQL, React, HTML, CSS
+
+Certifications:
+TensorFlow Developer Certificate

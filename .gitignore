@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+.env
+
+# Text editor settings
+.vscode/
+.idea/
+
+# Application custom ignores
+temp_resumes/
+output/ranking.json
+output/ranking.csv
+resume_screening_agent/

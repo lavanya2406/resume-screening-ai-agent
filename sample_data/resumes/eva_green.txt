@@ -1,0 +1,23 @@
+Eva Green
+Email: eva.green@example.com
+Phone: 555-0108
+
+Education:
+Bachelor of Science in Web Design & Development
+State College, 2021
+
+Experience:
+Frontend Web Developer at PixelCraft (3 years)
+- Engineered responsive frontends using React, JavaScript, HTML, and CSS.
+- Built backend APIs using Node.js and MongoDB.
+- Wrote minimal scripts in Python for file automation.
+
+Projects:
+E-commerce portal: Web store with React frontend and Node API.
+Automation files: Python script helper.
+
+Skills:
+JavaScript, React, Node, HTML, CSS, MongoDB, MySQL, Python
+
+Certifications:
+None

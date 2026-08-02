@@ -1,0 +1,22 @@
+Frank White
+Email: frank.white@example.com
+Phone: 555-0109
+
+Education:
+Bachelor of Science in Software Engineering
+Boston Tech, 2022
+
+Experience:
+Backend Engineer at JavaSystems (2 years)
+- Java and C++ programming.
+- Relational schemas in PostgreSQL and MySQL.
+- Maintained documentation in HTML.
+
+Projects:
+Migration tools: Java application for databases.
+
+Skills:
+Java, MySQL, PostgreSQL, C++, HTML, CSS
+
+Certifications:
+Oracle Certified Java Programmer

@@ -1,0 +1,21 @@
+Jack Brown
+Email: jack.brown@example.com
+Phone: 555-0110
+
+Education:
+Bachelor of Arts in Communications
+Boston College, 2023
+
+Experience:
+Social Media Coordinator at BuzzMedia (1 year)
+- Managed marketing campaigns and tracked user analytics.
+- Edited simple landing page structures using basic HTML and CSS.
+
+Projects:
+Landing Page: Simple static marketing site in HTML/CSS.
+
+Skills:
+HTML, CSS
+
+Certifications:
+None

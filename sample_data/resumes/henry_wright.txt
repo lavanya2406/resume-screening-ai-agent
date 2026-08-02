@@ -1,0 +1,23 @@
+Henry Wright
+Email: henry.wright@example.com
+Phone: 555-0106
+
+Education:
+Bachelor of Science in Computer Science
+University of Massachusetts, 2022
+
+Experience:
+Junior Software Engineer at DataFlow (1.5 years)
+- Developed database querying tools and backend routines in Python and SQL.
+- Trained basic Machine Learning regression models.
+- Set up test microservices on AWS.
+
+Projects:
+SQL Optimizer: ML models for query optimization.
+Cloud logger: Simple AWS logging system.
+
+Skills:
+Python, SQL, PostgreSQL, MySQL, Machine Learning, AWS, HTML, CSS
+
+Certifications:
+AWS Certified Cloud Practitioner

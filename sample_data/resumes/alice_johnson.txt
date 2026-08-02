@@ -1,0 +1,23 @@
+Alice Johnson
+Email: alice.johnson@example.com
+Phone: 555-0101
+
+Education:
+Master of Science in Computer Science
+Boston University, 2024
+
+Experience:
+AI Research Intern at NeuralCorp (1.5 years)
+- Developed Deep Learning models and NLP workflows in Python.
+- Fine-tuned transformer models and Large Language Models (LLMs) using PyTorch.
+- Used PostgreSQL to store embeddings and clean datasets.
+
+Projects:
+Text summarizer: A Python application utilizing PyTorch and LLMs.
+Classification engine: An NLP classifier using Python.
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP, PyTorch, LLMs, PostgreSQL
+
+Certifications:
+AWS Certified Developer

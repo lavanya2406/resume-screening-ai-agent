@@ -1,0 +1,14 @@
+Job Title: Junior AI Research Associate
+Company: Intelligent Systems Lab
+Location: Boston, MA / Hybrid
+
+Objective:
+We are seeking a motivated Junior AI Research Associate to join our AI research team. You will assist in building, testing, and evaluating neural network models, particularly focusing on Natural Language Processing (NLP) and Large Language Models (LLMs).
+
+Key Requirements:
+- Programming: Strong proficiency in Python.
+- AI & ML: Hands-on experience with Machine Learning, Deep Learning, NLP, and LLMs.
+- Frameworks: Experience using PyTorch or TensorFlow.
+- Database & Cloud: Basic knowledge of SQL (PostgreSQL/MySQL) and Cloud platforms (AWS/Azure) is preferred.
+- Education: Master's or Bachelor's degree in Computer Science, Data Science, or a related field.
+- Experience: Minimum 1 year of experience in AI/ML development or research.

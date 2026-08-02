@@ -1,0 +1,22 @@
+Grace Lee
+Email: grace.lee@example.com
+Phone: 555-0105
+
+Education:
+Master of Science in Artificial Intelligence
+Harvard University, 2025
+
+Experience:
+AI Research Assistant at Harvard Labs (0.5 years)
+- Implemented NLP workflows and fine-tuned LLMs in Python.
+- Designed neural networks using PyTorch.
+- Managed benchmark dataset loaders.
+
+Projects:
+RAG Chatbot: Simple Python LLM retrieval-augmented generation app.
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP, PyTorch, LLMs, HTML
+
+Certifications:
+None

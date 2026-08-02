@@ -1,0 +1,23 @@
+Ivy Taylor
+Email: ivy.taylor@example.com
+Phone: 555-0102
+
+Education:
+Master of Science in Data Science
+Northeastern University, 2023
+
+Experience:
+Junior Data Scientist at Insight AI (2 years)
+- Built Machine Learning and Deep Learning architectures for predictive analytics.
+- Fine-tuned NLP classification models using TensorFlow and PyTorch.
+- Managed cloud pipelines on Microsoft Azure.
+
+Projects:
+Object detection: TensorFlow-based real-time object tracking system.
+Sentiment analyzer: NLP classification script in Python.
+
+Skills:
+Python, C++, Machine Learning, Deep Learning, TensorFlow, NLP, Azure, MySQL
+
+Certifications:
+Microsoft Certified: Azure AI Engineer Associate

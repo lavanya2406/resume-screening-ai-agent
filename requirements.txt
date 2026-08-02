@@ -1,0 +1,19 @@
+# Resume Screening AI Agent Dependencies
+
+# Environment & Config
+python-dotenv==1.2.2
+pydantic==2.13.4
+streamlit==1.46.1
+
+# PDF & Word Parsers
+pdfplumber==0.11.10
+python-docx==1.2.0
+
+# Generative AI & Embeddings
+google-generativeai==0.8.6
+
+# Scientific computing & Similarity
+numpy==2.3.1
+scikit-learn==1.7.0
+sentence-transformers==5.6.1
+torchvision==0.28.0

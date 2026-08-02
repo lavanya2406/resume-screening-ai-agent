@@ -1,0 +1,23 @@
+David Davis
+Email: david.davis@example.com
+Phone: 555-0107
+
+Education:
+Bachelor of Science in Computer Science
+Wentworth Institute, 2023
+
+Experience:
+Junior Web Developer at DevSolutions (1 year)
+- Developed interactive user interfaces using React, JavaScript, HTML, and CSS.
+- Wrote basic Python scripting tools.
+- Experimented with simple Machine Learning classification models.
+
+Projects:
+Web UI: User interface built in React.
+Script automation: File management Python scripts.
+
+Skills:
+Python, JavaScript, HTML, CSS, React, SQL, Machine Learning
+
+Certifications:
+None

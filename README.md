@@ -19,7 +19,7 @@ Get the application up and running locally in minutes:
 ```bash
 # 1. Clone the repository
 git clone https://github.com/lavanya2406/resume-screening-ai-agent.git
-cd resume_screening_agent
+cd resume-screening-ai-agent
 
 # 2. Install pinned dependencies
 pip install -r requirements.txt
@@ -82,7 +82,7 @@ $$\text{Final Score (0–100)} = 0.60 \times \text{Semantic similarity} + 0.20 \
 ## Folder Organization
 
 ```text
-resume_screening_agent/
+resume-screening-ai-agent/
 │
 ├── main.py                 # Core CLI orchestrator and execution entrypoint
 ├── app.py                  # Streamlit recruiter UI dashboard
